@@ -36,7 +36,6 @@ A simple popup alert plugin for Vue3 and TailwindCSS
 
 **参数 | Parameters:**
 - `icon`: "success" | "error" | "loading" | "none"
-- `mask`: boolean
 
 ```javascript
 function showToast() {
